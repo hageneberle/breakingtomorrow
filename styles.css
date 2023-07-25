@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin: 20px;
+}
+
+input {
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#fact {
+  margin-top: 30px;
+}
+
+#picture {
+  margin-top: 30px;
+}
